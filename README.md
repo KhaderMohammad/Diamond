@@ -9,3 +9,5 @@ jenkins triggering...added value to the jenkins followed again
 jenkins triggering via commands
 
 triggering through API keys
+
+triggered via jenkins
