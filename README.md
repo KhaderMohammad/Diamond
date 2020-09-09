@@ -5,6 +5,18 @@ diamond repository 1 commit
 
 jenkins triggering...added value to the jenkins followed again
 
-jenkins test triggering.
+feature2
 
 jenkins prod trigegring
+
+
+jenkins triggering via commands
+
+triggering through API keys
+
+triggered via jenkins
+
+Triggered final API.
+
+Build History API
+master
